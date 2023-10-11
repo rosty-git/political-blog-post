@@ -1,0 +1,6 @@
+2012 Political Blog Posts data set. 
+
+for_tim.json.gz file: A list of top political blogs was compiled by Technorati, and the data were scraped by MaxPoint Interactive, following robot protocols. 
+textNetwork.csv file: The political blogs data set was cleaned by Derek Owens-Oas, Duke University statistical science.
+
+The data are shared with intention of academic and research purposes. It is not intended to be used for commercial purposes.
